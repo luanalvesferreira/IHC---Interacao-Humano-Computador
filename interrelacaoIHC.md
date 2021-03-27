@@ -1,4 +1,4 @@
-Sistemas interativos e algoritmos racistas: A inter-relação entre eles.
+# Sistemas interativos e algoritmos racistas: A inter-relação entre eles.
 Documento elaborado com o objetivo de relacionar dois artigos distintos, sendo eles: ¹“Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais” e ²“Exploring User Profiles Based on their Explainability Requirements in Interactive Systems”
 O objetivo do primeiro artigo relacionado a algoritmos racistas, buscam fazer uma análise em três grandes bancos de armazenamento de imagens e procuram dentro destes sites palavras especificas ou palavras chaves e analisa os resultados obtidos com foco no comparativo de pessoas negras e brancas. Já no segundo o principal objetivo é reconhecer a necessidade da explicação de sistemas interativos bem como também o seu direito de explicação, baseado na criação de perfis de usuários e agrupando os perfis semelhantes.
 
@@ -11,13 +11,13 @@ Portanto, podemos ficar discutindo essa pauta eternamente e mesmo assim nunca en
 
 Ressaltando os pontos que podem ser levados para o debate:
 
-•	Os algoritmos racistas levam a culpa por tudo?
+**•	Os algoritmos racistas levam a culpa por tudo?**
 
-•	Não seria a maior parte da culpa, do ser enquanto humano sobre a forma como o algoritmo trabalha?
+**•	Não seria a maior parte da culpa, do ser enquanto humano sobre a forma como o algoritmo trabalha?**
 
-•	O resultado obtido pelos algoritmos racistas, não seriam resultados mais procurados e clicados pelas pessoas?
+**•	O resultado obtido pelos algoritmos racistas, não seriam resultados mais procurados e clicados pelas pessoas?**
 
-•	Quem é o ser pensante, o algoritmo ou o homem?
+**•	Quem é o ser pensante, o algoritmo ou o homem?**
 
 Luan Alves Ferreira – Interação Humano Computador 
 Debate Estruturado l – Pontifícia Universidade Católica de Minas Gerais.
