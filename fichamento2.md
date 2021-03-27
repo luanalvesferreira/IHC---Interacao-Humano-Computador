@@ -3,14 +3,14 @@ LOUZADA, HENRIQUE; CHAVES, GABRIEL; PONCIANO, LESANDRO. Exploring User Profiles 
 ## 1.	Fichamento do Conteúdo
 O artigo em questão tem como por objetivo, ao redor de duas questões principais, tratar por meio de combinações de questionários, mineração de dados e estatística a diferenciação e as semelhanças entre determinados tipos de grupos de usuários e o grupo de perfil a qual cada um pertence a respeito da explicabilidade. O intuito é tratar as respostas obtidas como caráter principal para divisão em uma espécie de perfil de usuário com percepções semelhantes, cujo o estudo foi feito com 61 pessoas, no qual foram encontrados 6 perfis ou grupos diferentes.
 Pode-se entender que a tomada de decisão pode ser interferida e se não tomada por interversão dos sistemas interativos, tendo em vista que podem influenciar nas opiniões e ações das pessoas. Há uma certa dificuldade para entendimento nos métodos utilizados para agrupamentos dos perfis bem como em suas divisões. Portanto, fica claro que o objetivo do artigo foi atingido quando percebemos que em sua grande maioria, dentre as 61 pessoas que foram pesquisadas, demostram o interesse quando se diz respeito a explicabilidade.
-## 2.	Fichamento do Conteúdo
+## 2.	Fichamento Bibliográfico
 •	Os softwares possuem uma grande capacidade, mas isso se torna a cada dia mais algo mais complexo, tornando assim algo que deve ser estudado com ainda mais frequência. (pág. 2)
 
 •	A inteligência artificial explicável, XAI, tem como objetivo principal, explicar ou mostrar como as soluções podem ser explicadas. (pág. 2)
 
 •	Os sistemas computacionais interativos têm crescido cada dia mais no meio das pessoas, fazendo parte do dia a dia e auxiliando até mesmo na tomada de decisões. (pág. 1)
 
-## 3.	Fichamento do Conteúdo
+## 3.	Fichamento de Citações
 •	“Os fenômenos associados à relação entre as pessoas e os sistemas computacionais têm sido objetos de estudo da área de Interação Humano-Computador, que tem interesse no projeto e avaliação de sistemas interativos e nos fenômenos associados ao seu uso [1, 15].”
 
 •	“Projetar e implementar um software de modo que ele esteja aderente ao requisito de explicabilidade é um grande desafio”
