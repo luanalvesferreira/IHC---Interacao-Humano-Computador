@@ -1,22 +1,22 @@
-# Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
-LOUZADA, HENRIQUE; CHAVES, GABRIEL; PONCIANO, LESANDRO. Exploring User Profiles Based on their Explainability Requirements in Interactive Systems: IHC ‘20: Proceedings of the 19th Brazilian Symposium on Human Factors in Computing SystemsOctober 2020 Article No.: 48 Pages 1–6. ASSOCIATION FOR COMPUTING MACHINERY, Diamantina, Brazil, p. 1-6, Out. 2020. DOI https://doi.org/10.1145/3424953.3426545. Disponível em: https://bit.ly/2PzxlFs. Acesso em: 16 mar. 2021.
+# Testing Game: An Educational Game to Support Software Testing Education
+MARQUES, Joanna; MENEZES, Talita; ANDRADE, Nazareno. Anais do XIV Simpósio Brasileiro de Sistemas Colaborativos. Me sinto de mãos dadas! Um estudo sobre efeitos de comunidade no comportamento online de suas participantes, Campina Grande, Paraíba, p. 1414-1428, 2 jul. 2017. Disponível em: https://bit.ly/3fbeI3F. Acesso em: 8 maio 2021.
+
 ## 1.	Fichamento do Conteúdo
-O artigo em questão tem como por objetivo, ao redor de duas questões principais, tratar por meio de combinações de questionários, mineração de dados e estatística a diferenciação e as semelhanças entre determinados tipos de grupos de usuários e o grupo de perfil a qual cada um pertence a respeito da explicabilidade. O intuito é tratar as respostas obtidas como caráter principal para divisão em uma espécie de perfil de usuário com percepções semelhantes, cujo o estudo foi feito com 61 pessoas, no qual foram encontrados 6 perfis ou grupos diferentes.
-Pode-se entender que a tomada de decisão pode ser interferida e se não tomada por interversão dos sistemas interativos, tendo em vista que podem influenciar nas opiniões e ações das pessoas. Há uma certa dificuldade para entendimento nos métodos utilizados para agrupamentos dos perfis bem como em suas divisões. Portanto, fica claro que o objetivo do artigo foi atingido quando percebemos que em sua grande maioria, dentre as 61 pessoas que foram pesquisadas, demostram o interesse quando se diz respeito a explicabilidade.
+O principal objetivo do artigo em questão é fazer um levantamento dos grupos de pessoas que participam de certos grupos virtuais através da plataforma de uma das redes sociais mais conhecidas atualmente, a fim de estudar a violência enfrentada pelas mulheres além do espaço físico, de amplitude virtual. De acordo com o texto, a ideia surgiu a partir de uma necessidade, onde mulheres buscavam ajuda para conseguir chegar em determinada festividade, ao se pensar nisso, resolveram criar grupos nas redes sociais e se unirem para irem juntas para tal evento, a experiencia teve tanto êxito que a partir disso, tiveram a ideia de criação do grupo no Facebook baseado no suporte emocional das mulheres. Ao decorrer da estrutura do texto, dita-se que foram selecionadas algumas participantes deste grupo para responder algumas questões especificas. Se olharmos o objetivo desta espécie de “comunidade”, o objetivo central foi atingido, pois a grande maioria das entrevistadas teve seu pensamento e vida modificada atras do movimento, a forma de se expressar, de se valorizar, são pontos que são importantes destacar. É destacado durante o texto, trechos de respostas que foram publicadas por essas mulheres, acerca da deficiência e falta de empatia do sexo oposto ao socializar nessas redes sociais voltadas para estes assuntos. Portanto, podemos perceber, que este método de criação pode ser extremamente eficaz na tratativa de empoderamento e voz ativa no meio das mulheres, tornando assim um assunto muito importante e bastante discutido, valido. As redes sociais nem sempre são só coisas ruins, pode ser algo que promove a vida e a mudança na vida das pessoas, basta saber utiliza-la.
+
+
 ## 2.	Fichamento Bibliográfico
-•	Os softwares possuem uma grande capacidade, mas isso se torna a cada dia mais algo mais complexo, tornando assim algo que deve ser estudado com ainda mais frequência. (pág. 2)
+* _Devemos sempre nos atentar a forma de falar e de agir mediante as pessoas, pois o maior travamento se encontra internamente, mesmo passando desapercebido. (página 1421)_
+* _É de fundamental importância saber a procedência e estrutura adotada em cada tipo de grupo ou comunidade que deseja fazer parte, sempre verificando se está coerente com as suas expectativas e se adequa ao que está se buscando. (página 1420)_
+* _Toda verificação de perfil por meio dos administradores dos grupos, se tornam cada vez mais mínima possível, pois quando falamos de relatos e desabafos, devemos garantir que isso não vai ser usado contra os integrantes. (página 1424)_
 
-•	A inteligência artificial explicável, XAI, tem como objetivo principal, explicar ou mostrar como as soluções podem ser explicadas. (pág. 2)
-
-•	Os sistemas computacionais interativos têm crescido cada dia mais no meio das pessoas, fazendo parte do dia a dia e auxiliando até mesmo na tomada de decisões. (pág. 1)
 
 ## 3.	Fichamento de Citações
-•	“Os fenômenos associados à relação entre as pessoas e os sistemas computacionais têm sido objetos de estudo da área de Interação Humano-Computador, que tem interesse no projeto e avaliação de sistemas interativos e nos fenômenos associados ao seu uso [1, 15].”
 
-•	“Projetar e implementar um software de modo que ele esteja aderente ao requisito de explicabilidade é um grande desafio”
-
-•	“O desafio de se desenvolver software capaz de explicar suas saídas se torna maior quanto mais sofisticada for a computação realizada pelo software.”
-
-•	“A maior parte dos participantes sempre acessa buscadores de conteúdo na Web, mídias e redes sociais online.”
-
-•	“Os resultados obtidos mostram que há diversos perfis de usuários de sistemas interativos em termos de sua percepção quanto ao requisito de explicabilidade de software”
+* _"Por meio deste estudo buscou-se destacar como a violência enfrentada diariamente pelas mulheres se estende ao ciberespaço, afetando a socialização e interação em ambientes online"_
+* _"Este estudo combina observação participante e entrevistas semiestruturadas para
+examinar o papel de uma comunidade online para o mútuo apoio de mulheres na cidade
+de Campina Grande - Paraíba, ao longo de oito meses."_
+* _"A iniciativa é um chamado à sororidade, ou seja, um convite baseado na empatia
+e no companheirismo para que as participantes se unam e se fortaleçam, e obteve
+atenção positiva na mídia nacional."_

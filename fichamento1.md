@@ -1,26 +1,31 @@
-# Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais
-CARRERA, FERNANDA; CARVALHO, DENISE. Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais. Galaxia (São Paulo, online), Scielo, p. 1-16, Mar. 2021. DOI https://doi.org/10.1590/1982-25532020141614. Disponível em: https://bit.ly/3suk2Vk. Acesso em: 17 mar. 2021.
+# Caracterização de Opressão de Gênero em Redes Sociais a partir de Violações dos Princípios de Afetibilidade: Um estudo de caso no Facebook
+FERREIRA, Rafael; BARBOSA, Glívia; ANDRADE, Carolina; SILVA, Ismael ; COUTINHO, Flávio. Anais do XIV Simpósio Brasileiro de Sistemas Colaborativos. Caracterização de Opressão de Gênero em Redes Sociais a partir de Violações dos Princípios de Afetibilidade: Um estudo de caso no Facebook, Belo Horizonte, Minas Gerais, p. 1486-1500, 2017. Disponível em: XXXVII Congresso da Sociedade Brasileira de Computação. Acesso em: 8 de Maio 2021.
 
 ## 1.	Fichamento do Conteúdo
-Este artigo tem como principal objetivo abordar acerca do racismo, de forma mais geral, analisar por meio de pesquisa em alguns bancos de imagens digitais mais comuns. Os testes foram realizados baseados em busca de palavras chaves dentro de alguns sites específicos de armazenagem de fotografias, essas palavras são citadas como: “family”, “black family”, e “white family”. 
-De acordo com a busca dessas palavras o artigo visa ressaltar a solidão possivelmente atreladas automaticamente às mulheres negras, tendo em vista que são consideradas mulheres de grande força e selvageria, conforme citado por alguns autores. Neste conceito, busca analisar se existe diferenciação nos resultados obtidos quando o intuito é identificar se existe diferenciações de representatividade entre mulheres negras e brancas.
-Percebe-se que o artigo foi baseado em outras pesquisas que já haviam sido levantadas assuntos similares ao abordado. Cita-se autores de alguns artigos que foram publicados, com similaridades na tratativa de “respostas” para solução do possível problema. Não se pode dizer, tendo uma visão mais ampla, que os algoritmos foram programados para selecionar somente pessoas brancas, um ponto abordado por um dos autores seria o fato de imagens de pessoas brancas serem mais procuradas e selecionadas. Portanto, levanta uma questão na qual um possível autor para acontecer essas diferenciações não está atrelado somente no algoritmo enquanto máquina mas também ao ser enquanto humano.
+O artigo supracitado, tem como objetivo fazer uma investigação e caracterização, por meio de um estudo de caso, no qual foi utilizado um aplicativo comum e que grande parte das pessoas tem acesso, o Facebook, o intuito com este estudo de caso voltado para as redes sociais é fazer uma analise em cima da aplicabilidade dos princípios de afetibilidade e destacar quais são os seus impactos dentro da sociedade, tais como os seus pensamentos, emoções e graus de acolhimento. De acordo com a leitura do artigo pode-se perceber que o foco principal abordado são buscar respostas baseados em pessoas LGBT’s e o comportamento e impacto que o aplicativo tem em relação a isso, pode ser que quando o artigo foi publicado gere um pouco de rebuliço e até questionamentos, pois grande maioria das coisas apontadas já estão tratadas dentro da plataforma, ou seja, isso torna-se o artigo eficaz, uma vez que os pontos destacas, grande parte já foi modificado pela plataforma. Antigamente, talvez a plataforma apenas aderia algo e funcionalidades que talvez eram coisas padronizadas e quando falamos disso, é um problema, pois deve-se tratar todas as diversidades. Concluindo um ponto importante, seria a extensão deste projeto de pesquisa para todos os grupos que em sua grande minoria são drasticamente afetados com as opressões não só de gênero, mais também de cultura e caráter.
 
 ## 2.	Fichamento Bibliográfico
-•	Hiper-ritualização e raça está atrelada as características já engessadas e prejulgados na representatividade no conceito da imagem da mulher negra. (pág. 102).
+* _Para que um software ou aplicação produza o engajamento e promova cada vez mais a utilização, deve-se cada vez mais pensar em como projetar e avaliar a aplicabilidade para diferentes identidades de gêneros. (página 1486)_
+* _Quando falamos de interface e interação de sistemas, quase sempre a identidade de gênero e a orientação sexual são critérios para desenvolvimento. (página 1487)_
+* _Para construir uma aplicação não se deve pensar somente na estrutura dele em si, mas também em toda a experiencia de todos os usuários com ele. (página 1488)_
 
-•	Embranquecimento populacional o conceito vem de antigamente, trazendo a ideia de que os negros sempre serão os seres que precisam de civilização. (pág.104).
-
-•	O preterimento aferido á mulheres negras, tem sido algo que vem sido passado de gerações em gerações e se não impregnado dentro dos conceitos dos dias atuais. (pág.105)
-
-•	A solidão da mulher negra não se baseia somente em no ato de ser só, mas ao fato de também não possuírem, de certa forma, valor afetivo para as pessoas que estão ao redor. (pág.103)
 
 ## 3.	Fichamento de Citações
-•	“De acordo com Elias (1985), o conceito de solidão, em diversas situações, está relacionado não apenas a pessoas isoladas socialmente, mas também à vivência de pessoas que não possuem significado afetivo em meio a outras que estão ao seu redor.”
 
-•	“Especificamente no contexto racial, os resultados de trabalhos anteriores mostram diferenças relevantes: mulheres negras não são comumente associadas à fragilidade, mas à força e selvageria (PLOUS & NEPTUNE, 1997, p. 638)”
-•	“Analisando comparativamente mais de 2.500 imagens, percebeu-se que as mulheres negras são mais representadas sozinhas com seus filhos do que as mulheres brancas”
-
-•	“Em Gender Advertisements, Goffman conceitua a “hiper-ritualização” como um esforço imagético de reproduzir novamente as ritualizações de gênero que já acontecem na vida cotidiana (GOFFMAN, 1979, p. 4).”
-
-•	“Ao analisar os corpos das mulheres negras no contexto norte-americano, Bell Hooks (1995) afirma que a representação dos corpos destas mulheres nos períodos escravagista e pós-escravagista estava relacionada a apenas um corpo sem mente.”
+* _"A orientação sexual está associada ao objeto de desejo afetivo ou sexual.
+Indivíduos heterossexuais são aqueles que sentem-se atraídos unicamente por pessoas
+de outro gênero, enquanto homossexuais se atraem exclusivamente pelo mesmo gênero."_
+* _"A aplicação do MIS permitiu identificar que o projetista do Facebook endereça aspectos
+de afetibilidade na interface do sistema. Porém, apesar desse endereçamento no modelo
+de interface e interação dessa rede social, existem rupturas de comunicação relacionadas
+à afetibilidade que podem refletir em casos de opressão para o público LGBT."_
+* _"Em termos teóricos, os resultados da aplicação do MIS contribuem para a
+consolidação desse método na identificação de estratégias de qualidades de uso em
+sistemas colaborativos. Finalmente, a metodologia adotada para a condução desse
+trabalho pode ser explorada por outros pesquisadores para avaliar tanto afetibilidade
+quanto opressão em redes sociais."_
+* _"Fora do âmbito educacional, o trabalho de Hayashi e outros (2015) demonstrou a
+aplicabilidade dos Princípios de Afetibilidade na construção de aplicativos móveis, a
+partir do design participativo. Foram desenvolvidos protótipos de sistemas que
+demonstraram o entendimento dos participantes em relação ao conceito de afeto, além
+da aplicação dos princípios na elaboração de interfaces. "_
